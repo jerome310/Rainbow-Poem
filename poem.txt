@@ -5,12 +5,12 @@ Pink
 Orange
 Blue
 Green
+Indigo
 Unicorn 
 Yellow
 Red
 These are the colors of the rainbow.
 and the unicorn.
 Pony
-
 
 I am ponies and I am making some code so I can push my code to the master file
